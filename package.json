@@ -1,0 +1,25 @@
+{
+  "name": "easycantine",
+  "version": "0.1.0",
+  "description": "EasyCantine Project Packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmashScharrer/EasyCantine.git"
+  },
+  "keywords": [
+    "EasyCantine"
+  ],
+  "author": "GUIRADO-PATRICO Nathan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SmashScharrer/EasyCantine/issues"
+  },
+  "homepage": "https://github.com/SmashScharrer/EasyCantine#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
